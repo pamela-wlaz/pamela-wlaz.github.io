@@ -1,0 +1,1 @@
+const toggleMenu=(e)=>{const menu=document.getElementById("menu");const currentDisplay=menu.style.display;menu.style.display=currentDisplay==='block'?'none':'block'}
