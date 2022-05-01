@@ -1,3 +1,2 @@
----
-permalink: /index.html
----
+# pamwatelier
+stronka for żonka
